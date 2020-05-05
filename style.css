@@ -1,0 +1,14 @@
+h1 {
+  border: 1px black solid;
+}
+
+.div1 {
+  border: 1px red solid;
+  position: fixed;
+  top: 0;
+  left: 0;
+  padding: 40px;
+  margin: 0;
+  text-align: center;
+  background: #eee;
+}
